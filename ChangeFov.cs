@@ -8,7 +8,7 @@ namespace ChangeFov {
 
     public class Main : BasePlugin {
         
-        public override string ModuleName => "eboyfriends";
+        public override string ModuleName => "ChangeFov";
         public override string ModuleVersion => "6.6.6";
         public override string ModuleAuthor => "eboyfriends";
 
